@@ -4,9 +4,9 @@ This repository contains the code and resources for performing integrative multi
 
 ## Overview
 Arsenic exposure disrupts the epigenome, transcriptome, and metabolome, leading to severe health implications. This project leverages the **PARAFAC2 AO-ADMM model** for CMF to integrate and analyze:
-- **RRBS**: Reduced Representation Bisulfite Sequencing data.
-- **RNA-seq**: Transcriptomic data.
-- **Metabolomics**: Metabolic profiling data.
+- **RRBS**: Reduced Representation Bisulfite Sequencing data
+- **RNA-seq**: Transcriptomic data
+- **Metabolomics**: LC-MS data
 
 By jointly factorizing these datasets, we uncover regulatory mechanisms driving molecular changes in mouse ESCs and EpiLCs treated with arsenic.
 
